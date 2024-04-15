@@ -10,5 +10,8 @@
     "npm"
   ],
   "author": "Priyanshu Vapta",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "puppeteer": "^22.6.5"
+  }
 }
