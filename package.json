@@ -1,0 +1,14 @@
+{
+  "name": "priyanshu-pdf-creator",
+  "version": "1.0.0",
+  "description": "An npm package to create pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Priyanshu Vapta",
+  "license": "Apache-2.0"
+}
